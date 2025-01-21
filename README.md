@@ -56,9 +56,9 @@ Bienvenido a Challenge Foro GitHub, una aplicación de foro creada para gestiona
     ```sh
     ./mvnw spring-boot:run
     ```
-## 📧 Autora
-- Carolina Pantoja
-- [LinkedIn](https://www.linkedin.com/in/carolina-pantoja-716184144)
-- Formación: Java Orientado a Objetos G6 - ONE
+## 📧 Autor
+- Luis Achahui
+- [LinkedIn](https://www.linkedin.com/in/luis-eduardo-achahui-balbin/)
+- Formación: Java Orientado a Objetos G7 - ONE
 - Alura Latam
 - Oracle Next Education
